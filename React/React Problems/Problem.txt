@@ -21,3 +21,7 @@ Live Link : https://wj7ckw.csb.app/
 Question : GitHub API fetch data display
 Code Link : https://codesandbox.io/s/fetch-github-repo-app-kuf1oq?file=/App.js
 Live Link :  https://kuf1oq.csb.app/
+
+Question : Product Table 
+Code Link : https://codesandbox.io/s/product-table-react-exercise-3bfsy1
+Live Link : https://3bfsy1.csb.app/
