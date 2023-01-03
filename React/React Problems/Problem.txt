@@ -35,3 +35,6 @@ Link :  https://codepen.io/gentleshah/pen/GRMVNdV
 
 Question : Search Box and Button as twitter with flex-basis and flex-grow
 Link : https://codepen.io/gentleshah/pen/BawXQwa
+
+Question : A basic NavBar
+Link : https://codepen.io/gentleshah/pen/MWOyQWo
