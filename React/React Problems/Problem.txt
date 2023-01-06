@@ -41,3 +41,6 @@ Link : https://codepen.io/gentleshah/pen/MWOyQWo
 
 Question :  Password Checker App
 Link : https://codepen.io/gentleshah/pen/YzxwxEP
+
+Question : Counter Program
+Link : https://codepen.io/gentleshah/pen/NWvbzEj
