@@ -45,5 +45,5 @@ Link : https://codepen.io/gentleshah/pen/YzxwxEP
 Question : Counter Program
 Link : https://codepen.io/gentleshah/pen/NWvbzEj
 
-Question : Profuct Table List and search data
+Question : Product Table List and search data
 Link : https://codesandbox.io/s/product-table-react-exercise-3bfsy1
